@@ -6,4 +6,4 @@
 
      I'm so excited to connect with you. Cheers!
      
-![](https://komarev.com/ghpvc/?username=GoodnessJames&style=flat-square)
+![](https://komarev.com/ghpvc/?username=GoodnessJames&style=plastic)
