@@ -2,7 +2,7 @@
 
 ### 🛠 Your go-to for **technical support, documentation, and user experience evaluation**  
 
-- 🧐 I thrive on **making technology more accessible**—whether it’s writing clear and engaging documentation, evaluating user experience, or providing top-notch technical support.  
+- 🧐 I thrive on **making technology more accessible**, whether it’s writing clear and engaging documentation, evaluating user experience, or providing top-notch technical support.  
 - ✍️ I enjoy **creating user-friendly guides, improving technical documentation**, and helping users navigate complex systems with ease.  
 - 🔍 Passionate about **identifying usability gaps**, reviewing applications, and offering **detailed, actionable feedback** to enhance product experience.  
 - 🌱 Always learning! Exploring **tech documentation best practices, UX research, and technical support strategies**.  
