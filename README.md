@@ -8,6 +8,6 @@
 - 🌱 Lifelong learner! 
 - 💡 Open to **collaborations** on projects that need **strategic thinking, user experience insights, or product support solutions**.  
 
-📫 Let’s connect and make tech (and life) more viable!
+🛜 Let’s connect and make tech (and life) more viable!
      
 ![](https://komarev.com/ghpvc/?username=GoodnessJames&style=plastic)
