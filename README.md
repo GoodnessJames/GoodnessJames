@@ -8,7 +8,6 @@
 - 🌱 Lifelong learner! 
 - 💡 Open to **collaborations** on projects that need **strategic thinking, user experience insights, or product support solutions**.  
 
-📫 Reach me via my email at akomagoodness97@gmail.com
-- Let’s connect and make tech (and life) more viable!
+📫 Let’s connect and make tech (and life) more viable!
      
 ![](https://komarev.com/ghpvc/?username=GoodnessJames&style=plastic)
