@@ -6,8 +6,8 @@
 - ✍️ I enjoy **creating user-friendly guides, improving product viability**, and helping users navigate complex systems with ease.  
 - 🔍 Passionate about **identifying usability gaps**, reviewing applications, and offering **detailed, actionable feedback** to enhance product experience.  
 - 🌱 Lifelong learner! 
-- 💡 Open to **collaborations** on projects that need **strategic thinking, user experience insights, or product support solutions**.  
+- 💡 Open to **collaborations** on projects that need **strategic thinking, user experience insights, or product support solutions**.
 
-🛜 Let’s connect and make tech (and life) more viable!
+- 🛜 Let’s connect and make tech (and life) more viable!
      
 ![](https://komarev.com/ghpvc/?username=GoodnessJames&style=plastic)
