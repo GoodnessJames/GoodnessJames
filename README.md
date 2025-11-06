@@ -6,7 +6,7 @@
 - ✍️ I enjoy **creating user-friendly guides, improving product viability**, and helping users navigate complex systems with ease.  
 - 🔍 Passionate about **identifying usability gaps in product design**, reviewing content campaigns, and offering **detailed, actionable feedback** to enhance product experience.  
 - 🌱 Lifelong learner! 
-- 💡 Open to **collaborations** on projects that need **AI product support solutions, content strategy, or UX-focused branding design**.
+- 💡 Open to **collaborations** on projects that need **AI product support solutions, content strategy, or UX-focused design**.
 
 - 🛜 Let’s connect and make tech (and life) more viable!
      
