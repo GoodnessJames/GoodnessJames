@@ -1,6 +1,6 @@
 # 👋 Hi there! I’m Goodness James, Akoma!  
 
-### 🛠 Your go-to for **AI/data-backed product support and ux focused design**  
+### 🛠 Your go-to for **AI/Data-backed Product Support and UX-focused Design**  
 
 - 🧐 I thrive in **making technology more accessible**, whether it’s writing clear and engaging documentation, evaluating user experience, or providing top-notch product support.  
 - ✍️ I enjoy **creating user-friendly guides, improving product viability**, and helping users navigate complex systems with ease.  
