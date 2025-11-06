@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m Akoma, Goodness James!  
+# 👋 Hi there! I’m Goodness James, Akoma!  
 
 ### 🛠 Your go-to for **product support, technical writing, and user experience evaluation**  
 
