@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m Goodness James, Akoma!  
+# 👋 Hi there! I’m Goodness James, Akoma.  
 
 ### 🛠 Your go-to for **AI/Data-backed Product Support and UX-focused Design**  
 
