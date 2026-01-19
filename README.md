@@ -1,13 +1,13 @@
 # 👋 Hi there! I’m Goodness James, Akoma.  
 
-### 🛠 Your go-to for **AI/Data-backed Product Support and UX-focused Design**  
+### 🛠 Your go-to for **Data-backed Business Decisions**  
 
-- 🧐 I thrive in **making technology more accessible**, whether it’s writing clear and engaging narratives, evaluating user experience, or providing top-notch product support.  
-- ✍️ I enjoy **creating user-friendly guides, improving product viability**, and helping users navigate complex systems with ease.  
-- 🔍 Passionate about **identifying usability gaps in product design**, reviewing content campaigns, and offering **detailed, actionable feedback** to enhance product experience.  
+- 🧐 I thrive in **making technology more accessible**, whether it’s writing clear and engaging narratives, identifying data trends, or providing top-notch content support.  
+- ✍️ I enjoy **telling impactful stories with data, improving team efficiency**, and helping teams understand complex data with ease.  
+- 🔍 Passionate about turning **data into actionable insights**, creating **high-impact content**, and providing **detail-oriented support** that improves client outcomes and product experience.
 - 🌱 Lifelong learner! 
-- 💡 Open to **collaborations** on projects that need **AI product support solutions, content strategy, or UX-focused design**.
+- 💡 Open to supporting teams with AI-assisted workflows, content strategy, and user-focused solutions that enhance product and client outcomes.
 
-- 🛜 Let’s connect and make tech (and life) more viable!
+- 🛜 Let’s connect and make tech work better for people!
      
 ![](https://komarev.com/ghpvc/?username=GoodnessJames&style=plastic)
