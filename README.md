@@ -6,7 +6,7 @@
 - ✍️ I enjoy **telling impactful stories with data, improving team efficiency**, and helping teams understand complex data with ease.  
 - 🔍 Passionate about turning **data into actionable insights**, creating **high-impact content**, and providing **detail-oriented support** that improves client outcomes and product experience.
 - 🌱 Lifelong learner! 
-- 💡 Open to supporting teams with AI-assisted workflows, content strategy, and user-focused solutions that enhance product and client outcomes.
+- 💡 Open to supporting teams with AI-assisted workflows, content strategy, and user-focused solutions that enhance profitable business outcomes.
 
 - 🛜 Let’s connect and make tech work better for people!
      
